@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><em>Data Analyst</em></p>
+<em>Data Analyst </em>
 
 <img src="https://img.shields.io/badge/SQL-A9C4A0?style=flat-square&logo=postgresql&logoColor=1E1E1C" />
 <img src="https://img.shields.io/badge/MySQL-A9C4A0?style=flat-square&logo=mysql&logoColor=1E1E1C" />
